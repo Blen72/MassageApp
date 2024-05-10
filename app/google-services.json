@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855522110949",
+    "project_id": "massageapp-576af",
+    "storage_bucket": "massageapp-576af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855522110949:android:17c3673b1db35d4518530c",
+        "android_client_info": {
+          "package_name": "com.blen.massageapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdzIocXf-cYu-1iV-45IEw1NU0iuGtjSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

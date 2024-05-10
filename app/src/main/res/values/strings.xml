@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MassageApp</string>
+    <string name="email_addr">Email cím</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="password">Jelszó</string>
+    <string name="password_again">Jelszó megint</string>
+    <string name="lefoglalt_idopontok">Lefoglalt időpontok</string>
+    <string name="uj_idopont_foglalasa">Új időpont foglalása 1 óra hosszára</string>
+    <string name="year">Év</string>
+    <string name="month">Hónap</string>
+    <string name="day">Nap</string>
+    <string name="hour">Óra</string>
+    <string name="date_format_error">Hibás formátum!</string>
+    <string name="cancel">Mégse</string>
+    <string name="booked_appointment_error">Az időpont már foglalt!</string>
+    <string name="delete_appointment">Időpont törlése</string>
+    <string name="plus_hour">+1 óra</string>
+    <string name="minus_hour">-1 óra</string>
+</resources>
